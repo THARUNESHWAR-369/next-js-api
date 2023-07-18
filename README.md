@@ -48,4 +48,7 @@
 
 
 > ## Screenshots
-> 
+> <img src="https://github.com/THARUNESHWAR-369/next-js-api/blob/main/images/db.png" width="800"/> <img src="https://github.com/THARUNESHWAR-369/next-js-api/blob/main/images/reg.png" width="800" height="500"/>
+> <img src="https://github.com/THARUNESHWAR-369/next-js-api/blob/main/images/login.ong" width="800" height="500"/>
+> <img src="https://github.com/THARUNESHWAR-369/next-js-api/blob/main/images/user.png" width="800" height="500"/>
+> <img src="https://github.com/THARUNESHWAR-369/next-js-api/blob/main/images/logout.png" width="800" height="500"/>
